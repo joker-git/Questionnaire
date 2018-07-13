@@ -19,7 +19,9 @@ Java8
 
 The project contains one folder, namely 'src' . The 'src' folder contains the source code for 2 java files i.e. 'DAGraph.java' and 'Sentence.java', which are solutions to problem 1 and 2 respectively and the 'resources' folder.
 
-The 'resources' folder contains two files, 'input1.txt' and 'input2.txt' which are sample input for problem 1 and problem 2 respectively. The programs by default have
+The 'resources' folder contains two files, 'input1.txt' and 'input2.txt' which are sample input for problem 1 and problem 2 respectively. The programs by default have these two files as their input file.
+
+
 
 
 ## Running the programs
@@ -63,6 +65,8 @@ Run the program with custom file path(put the absolute path of the file in place
 >java Sentence your_file_path
 ```
 You can create an English Paragraph as per your choice. The code can handle basic abbreviations with embedded points as in the scope of ```java.text.BreakIterator```.
+
+Screenshots of successfull running of the programs are present in the parent folder with names as 'Screenshot_DAGraph.jpg' and 'Screenshot_Sentence.jpg'. 
 
 ## Authors
 
